@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/exitchrono"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@drawable/icon_exit"
+        android:title="Quitter chrono"/>
+
+</menu>
